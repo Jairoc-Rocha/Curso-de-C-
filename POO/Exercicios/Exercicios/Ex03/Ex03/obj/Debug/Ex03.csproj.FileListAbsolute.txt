@@ -1,0 +1,8 @@
+D:\C#\POO\Exercicios\Exercicios\Ex03\Ex03\bin\Debug\Ex03.exe.config
+D:\C#\POO\Exercicios\Exercicios\Ex03\Ex03\bin\Debug\Ex03.exe
+D:\C#\POO\Exercicios\Exercicios\Ex03\Ex03\bin\Debug\Ex03.pdb
+D:\C#\POO\Exercicios\Exercicios\Ex03\Ex03\obj\Debug\Ex03.csproj.AssemblyReference.cache
+D:\C#\POO\Exercicios\Exercicios\Ex03\Ex03\obj\Debug\Ex03.csproj.SuggestedBindingRedirects.cache
+D:\C#\POO\Exercicios\Exercicios\Ex03\Ex03\obj\Debug\Ex03.csproj.CoreCompileInputs.cache
+D:\C#\POO\Exercicios\Exercicios\Ex03\Ex03\obj\Debug\Ex03.exe
+D:\C#\POO\Exercicios\Exercicios\Ex03\Ex03\obj\Debug\Ex03.pdb

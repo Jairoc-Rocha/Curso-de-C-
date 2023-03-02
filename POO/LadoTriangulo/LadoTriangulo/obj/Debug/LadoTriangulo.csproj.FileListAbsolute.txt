@@ -1,0 +1,8 @@
+D:\C#\POO\LadoTriangulo\LadoTriangulo\bin\Debug\LadoTriangulo.exe.config
+D:\C#\POO\LadoTriangulo\LadoTriangulo\bin\Debug\LadoTriangulo.exe
+D:\C#\POO\LadoTriangulo\LadoTriangulo\bin\Debug\LadoTriangulo.pdb
+D:\C#\POO\LadoTriangulo\LadoTriangulo\obj\Debug\LadoTriangulo.csproj.AssemblyReference.cache
+D:\C#\POO\LadoTriangulo\LadoTriangulo\obj\Debug\LadoTriangulo.csproj.SuggestedBindingRedirects.cache
+D:\C#\POO\LadoTriangulo\LadoTriangulo\obj\Debug\LadoTriangulo.csproj.CoreCompileInputs.cache
+D:\C#\POO\LadoTriangulo\LadoTriangulo\obj\Debug\LadoTriangulo.exe
+D:\C#\POO\LadoTriangulo\LadoTriangulo\obj\Debug\LadoTriangulo.pdb

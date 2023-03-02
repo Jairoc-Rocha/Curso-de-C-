@@ -1,0 +1,8 @@
+D:\C#\POO\Course\Course\Listas\bin\Debug\Listas.exe.config
+D:\C#\POO\Course\Course\Listas\bin\Debug\Listas.exe
+D:\C#\POO\Course\Course\Listas\bin\Debug\Listas.pdb
+D:\C#\POO\Course\Course\Listas\obj\Debug\Listas.csproj.AssemblyReference.cache
+D:\C#\POO\Course\Course\Listas\obj\Debug\Listas.csproj.SuggestedBindingRedirects.cache
+D:\C#\POO\Course\Course\Listas\obj\Debug\Listas.csproj.CoreCompileInputs.cache
+D:\C#\POO\Course\Course\Listas\obj\Debug\Listas.exe
+D:\C#\POO\Course\Course\Listas\obj\Debug\Listas.pdb

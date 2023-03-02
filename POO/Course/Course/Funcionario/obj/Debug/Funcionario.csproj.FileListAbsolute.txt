@@ -1,0 +1,8 @@
+D:\C#\POO\Course\Course\Funcionario\bin\Debug\Funcionario.exe.config
+D:\C#\POO\Course\Course\Funcionario\bin\Debug\Funcionario.exe
+D:\C#\POO\Course\Course\Funcionario\bin\Debug\Funcionario.pdb
+D:\C#\POO\Course\Course\Funcionario\obj\Debug\Funcionario.csproj.AssemblyReference.cache
+D:\C#\POO\Course\Course\Funcionario\obj\Debug\Funcionario.csproj.SuggestedBindingRedirects.cache
+D:\C#\POO\Course\Course\Funcionario\obj\Debug\Funcionario.csproj.CoreCompileInputs.cache
+D:\C#\POO\Course\Course\Funcionario\obj\Debug\Funcionario.exe
+D:\C#\POO\Course\Course\Funcionario\obj\Debug\Funcionario.pdb

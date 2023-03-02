@@ -1,0 +1,8 @@
+D:\C#\POO\Course\Course\Conta\bin\Debug\Conta.exe.config
+D:\C#\POO\Course\Course\Conta\bin\Debug\Conta.exe
+D:\C#\POO\Course\Course\Conta\bin\Debug\Conta.pdb
+D:\C#\POO\Course\Course\Conta\obj\Debug\Conta.csproj.AssemblyReference.cache
+D:\C#\POO\Course\Course\Conta\obj\Debug\Conta.csproj.SuggestedBindingRedirects.cache
+D:\C#\POO\Course\Course\Conta\obj\Debug\Conta.csproj.CoreCompileInputs.cache
+D:\C#\POO\Course\Course\Conta\obj\Debug\Conta.exe
+D:\C#\POO\Course\Course\Conta\obj\Debug\Conta.pdb

@@ -1,0 +1,8 @@
+D:\C#\logica\estrutura-sequencial\URI\URI\uri1006\bin\Debug\uri1006.exe.config
+D:\C#\logica\estrutura-sequencial\URI\URI\uri1006\bin\Debug\uri1006.exe
+D:\C#\logica\estrutura-sequencial\URI\URI\uri1006\bin\Debug\uri1006.pdb
+D:\C#\logica\estrutura-sequencial\URI\URI\uri1006\obj\Debug\uri1006.csproj.AssemblyReference.cache
+D:\C#\logica\estrutura-sequencial\URI\URI\uri1006\obj\Debug\uri1006.csproj.SuggestedBindingRedirects.cache
+D:\C#\logica\estrutura-sequencial\URI\URI\uri1006\obj\Debug\uri1006.csproj.CoreCompileInputs.cache
+D:\C#\logica\estrutura-sequencial\URI\URI\uri1006\obj\Debug\uri1006.exe
+D:\C#\logica\estrutura-sequencial\URI\URI\uri1006\obj\Debug\uri1006.pdb

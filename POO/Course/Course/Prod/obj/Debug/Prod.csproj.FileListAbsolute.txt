@@ -1,0 +1,8 @@
+D:\C#\POO\Course\Course\Prod\bin\Debug\Prod.exe.config
+D:\C#\POO\Course\Course\Prod\bin\Debug\Prod.exe
+D:\C#\POO\Course\Course\Prod\bin\Debug\Prod.pdb
+D:\C#\POO\Course\Course\Prod\obj\Debug\Prod.csproj.AssemblyReference.cache
+D:\C#\POO\Course\Course\Prod\obj\Debug\Prod.csproj.SuggestedBindingRedirects.cache
+D:\C#\POO\Course\Course\Prod\obj\Debug\Prod.csproj.CoreCompileInputs.cache
+D:\C#\POO\Course\Course\Prod\obj\Debug\Prod.exe
+D:\C#\POO\Course\Course\Prod\obj\Debug\Prod.pdb
