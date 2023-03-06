@@ -1,0 +1,8 @@
+C:\Users\jrocha\Documents\Curso-C#\Curso-de-C-\POO\Course\Course\Contrato\Contrato\bin\Debug\Contrato.exe.config
+C:\Users\jrocha\Documents\Curso-C#\Curso-de-C-\POO\Course\Course\Contrato\Contrato\bin\Debug\Contrato.exe
+C:\Users\jrocha\Documents\Curso-C#\Curso-de-C-\POO\Course\Course\Contrato\Contrato\bin\Debug\Contrato.pdb
+C:\Users\jrocha\Documents\Curso-C#\Curso-de-C-\POO\Course\Course\Contrato\Contrato\obj\Debug\Contrato.csproj.AssemblyReference.cache
+C:\Users\jrocha\Documents\Curso-C#\Curso-de-C-\POO\Course\Course\Contrato\Contrato\obj\Debug\Contrato.csproj.SuggestedBindingRedirects.cache
+C:\Users\jrocha\Documents\Curso-C#\Curso-de-C-\POO\Course\Course\Contrato\Contrato\obj\Debug\Contrato.csproj.CoreCompileInputs.cache
+C:\Users\jrocha\Documents\Curso-C#\Curso-de-C-\POO\Course\Course\Contrato\Contrato\obj\Debug\Contrato.exe
+C:\Users\jrocha\Documents\Curso-C#\Curso-de-C-\POO\Course\Course\Contrato\Contrato\obj\Debug\Contrato.pdb
