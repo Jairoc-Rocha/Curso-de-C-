@@ -1,0 +1,8 @@
+C:\Users\jrocha\Documents\Curso-C#\Curso-de-C-\POO\Course\Course\Heranca\Heranca\bin\Debug\Heranca.exe.config
+C:\Users\jrocha\Documents\Curso-C#\Curso-de-C-\POO\Course\Course\Heranca\Heranca\bin\Debug\Heranca.exe
+C:\Users\jrocha\Documents\Curso-C#\Curso-de-C-\POO\Course\Course\Heranca\Heranca\bin\Debug\Heranca.pdb
+C:\Users\jrocha\Documents\Curso-C#\Curso-de-C-\POO\Course\Course\Heranca\Heranca\obj\Debug\Heranca.csproj.AssemblyReference.cache
+C:\Users\jrocha\Documents\Curso-C#\Curso-de-C-\POO\Course\Course\Heranca\Heranca\obj\Debug\Heranca.csproj.SuggestedBindingRedirects.cache
+C:\Users\jrocha\Documents\Curso-C#\Curso-de-C-\POO\Course\Course\Heranca\Heranca\obj\Debug\Heranca.csproj.CoreCompileInputs.cache
+C:\Users\jrocha\Documents\Curso-C#\Curso-de-C-\POO\Course\Course\Heranca\Heranca\obj\Debug\Heranca.exe
+C:\Users\jrocha\Documents\Curso-C#\Curso-de-C-\POO\Course\Course\Heranca\Heranca\obj\Debug\Heranca.pdb
