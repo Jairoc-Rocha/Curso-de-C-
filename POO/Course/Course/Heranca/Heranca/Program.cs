@@ -11,10 +11,32 @@ namespace Heranca
     {
         static void Main(string[] args)
         {
-            BusinessAcount account = new BusinessAcount(8010, "Bob Brown", 100.00, 500.0);
+            Account acc = new Account(1001, "Alex", 0.0);
+            BusinessAcount bacc = new BusinessAcount(1002, "Maria", 0.0, 500.0);
+
+            //UPCASTING - Conversão da subclasse para a superclasse
+
+            Account acc1 = bacc;
+            Account acc2 = new BusinessAcount(1003, "Bob", 0.0, 200.0);
+            Account acc3 = new SavingsAccount(1004, "Ana", 0.0, 0.01);
+
+            //DOWNCASTING - Conversão da superclasse para a subclasse 
+
+            BusinessAcount bacc1 = (BusinessAcount)acc2;
+            bacc1.Loan(100.0);
+
+            if (acc3 is BusinessAcount)
+            {
+                //BusinessAcount bacc2 = (BusinessAcount)acc3;
+                BusinessAcount bacc2 = acc3 as BusinessAcount; // Utiliza o (as) como outra forma de fazer o CASTING
+                bacc2.Loan(200.0);
+                Console.WriteLine("Loan!");
+            } else
+            {
+                Console.WriteLine("Falhou!");
+            }
 
 
-            Console.WriteLine(account.Balance);
 
             Console.ReadLine();
         }
