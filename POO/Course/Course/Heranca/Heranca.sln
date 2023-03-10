@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca", "Heranca\Heranca.csproj", "{B7E271D2-B9AA-4752-8716-61AACC6C0395}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Formas", "Formas\Formas.csproj", "{48791047-638D-4A74-BE78-E9864BBA20B3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B7E271D2-B9AA-4752-8716-61AACC6C0395}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7E271D2-B9AA-4752-8716-61AACC6C0395}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7E271D2-B9AA-4752-8716-61AACC6C0395}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48791047-638D-4A74-BE78-E9864BBA20B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48791047-638D-4A74-BE78-E9864BBA20B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48791047-638D-4A74-BE78-E9864BBA20B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48791047-638D-4A74-BE78-E9864BBA20B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

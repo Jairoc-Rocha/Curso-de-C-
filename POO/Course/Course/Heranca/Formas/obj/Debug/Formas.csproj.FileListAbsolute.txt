@@ -1,0 +1,8 @@
+D:\C#\Curso-de-C-\POO\Course\Course\Heranca\Formas\bin\Debug\Formas.exe.config
+D:\C#\Curso-de-C-\POO\Course\Course\Heranca\Formas\bin\Debug\Formas.exe
+D:\C#\Curso-de-C-\POO\Course\Course\Heranca\Formas\bin\Debug\Formas.pdb
+D:\C#\Curso-de-C-\POO\Course\Course\Heranca\Formas\obj\Debug\Formas.csproj.AssemblyReference.cache
+D:\C#\Curso-de-C-\POO\Course\Course\Heranca\Formas\obj\Debug\Formas.csproj.SuggestedBindingRedirects.cache
+D:\C#\Curso-de-C-\POO\Course\Course\Heranca\Formas\obj\Debug\Formas.csproj.CoreCompileInputs.cache
+D:\C#\Curso-de-C-\POO\Course\Course\Heranca\Formas\obj\Debug\Formas.exe
+D:\C#\Curso-de-C-\POO\Course\Course\Heranca\Formas\obj\Debug\Formas.pdb
